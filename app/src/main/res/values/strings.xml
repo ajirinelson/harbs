@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Harbs</string>
+    <string name="FACEBOOK_APP_ID">332817780734829</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">3c5bb2114634f6fb17efa4d8a4bc11cb</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="address_bullet"> \u2022 Address: </string>
+    <string name="time_bullet"> \u2022 Time: </string>
+    <string name="stylelist_bullet"> \u2022 Stylelist: </string>
+    <string name="bullet"> \u2022 </string>
+</resources>

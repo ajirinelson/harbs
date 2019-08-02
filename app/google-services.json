@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "535811113371",
+    "firebase_url": "https://harbs-e7d43.firebaseio.com",
+    "project_id": "harbs-e7d43",
+    "storage_bucket": "harbs-e7d43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535811113371:android:c7bbc87d612e160c",
+        "android_client_info": {
+          "package_name": "com.harbs.harbs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535811113371-l3lr4cu6io3rm7snobis690g4hpe87v6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harbs.harbs",
+            "certificate_hash": "fa7ea506f04c5a90bda6065fdd99c0efed538f3d"
+          }
+        },
+        {
+          "client_id": "535811113371-mdu5eeqep5eiuoajv7avqtphal6or24e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt2Pa-fOMtnBgxrrTJOAwi_yqhqbTnDXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535811113371-mdu5eeqep5eiuoajv7avqtphal6or24e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
